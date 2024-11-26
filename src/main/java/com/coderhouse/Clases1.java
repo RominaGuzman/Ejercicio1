@@ -22,7 +22,7 @@ public class Clases1 {
 		        notasEstudiantes[3] = 4;
 				notasEstudiantes[4] = 10;
 				//7- String para nombre completo
-		        string nombreDePErsona = "Romina Guzmán"
+		        string nombreDePErsona = "Romina Guzmán";
 				//8- peso de una persona 
 				float pesoPersona = 65.8f;
 				//9- Constante para pi
@@ -64,7 +64,15 @@ public class Clases1 {
 
 				System.out.println(numA > numB);
 		
+				//17 - Verificar si un número es par
+				
+				int numC = 6;
+				if	(numC%2==0) {System.out.println(numC + "es un número par");	
 
+	} else {System.out.println(numC + "no es un número par");
 	}
-
-}
+				//18 Comparar 2 string
+				
+				if (new String ("Buen día").equals(nombreDePErsona)
+				
+				
