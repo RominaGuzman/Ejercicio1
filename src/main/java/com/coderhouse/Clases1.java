@@ -37,13 +37,13 @@ public class Clases1 {
 		        int numeroA = 450;
 				int numeroB = 550;
 				int resultado2 = numeroA + numeroB;
-				System.out.println(resultado);
+				System.out.println(resultado2);
 
 				//12- Resta con double
 				double numero3 = 45.5d;
 			    double numero4 = 55.5d;
 				double resultado3 = numero3 - numero4;
-				System.out.println(resultado);
+				System.out.println(resultado3);
 				//13 Muliplicación
 
 				int num1 = 6;
