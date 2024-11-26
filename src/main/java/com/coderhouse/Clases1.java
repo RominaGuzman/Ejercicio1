@@ -3,7 +3,7 @@ package com.coderhouse;
 public class Clases1 {
 
 	public static void main(String[] args) {
-			// 1- variable entera
+			/*// 1- variable entera
 				byte edadDelUsuario = 37;
 				//2- Constante para días de la semana
 				final byte DIAS_DE_LA_SEMANA = 7;
@@ -22,7 +22,7 @@ public class Clases1 {
 		        notasEstudiantes[3] = 4;
 				notasEstudiantes[4] = 10;
 				//7- String para nombre completo
-		        string nombreDePErsona = "Romina Guzmán";
+		        String nombreDePErsona = "Romina Guzmán";
 				//8- peso de una persona 
 				float pesoPersona = 65.8f;
 				//9- Constante para pi
@@ -72,7 +72,19 @@ public class Clases1 {
 	} else {System.out.println(numC + "no es un número par");
 	}
 				//18 Comparar 2 string
+		
+		String nombreDePErsona = "Romina Guzmán";
 				
-				if (new String ("Buen día").equals(nombreDePErsona)
+				if (new String ("Buen día").equals(nombreDePErsona)){System.out.println("Los textos son iguales");
+					
+				} else {System.out.println("Los textos son diferentes");}
+				}
+	}
 				
+				//19 condición para saber si aprobó*/
+
+				double nota = 7.5;
+				if (nota >= 6) {System.out.println("Aprobado");
+				} else {System.out.println("Desaprobado");}
+				}}
 				
