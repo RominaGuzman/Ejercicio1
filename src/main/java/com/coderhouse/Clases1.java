@@ -81,10 +81,16 @@ public class Clases1 {
 				}
 	}
 				
-				//19 condición para saber si aprobó*/
+				//19 condición para saber si aprobó
 
 				double nota = 7.5;
 				if (nota >= 6) {System.out.println("Aprobado");
 				} else {System.out.println("Desaprobado");}
 				}}
+
+				// 20 operadores lógicos entre 1 y 10*/
+
+				int numA = 12;
+				if (numA >=1 && numA <=10) {System.out.println("El número" + " " + numA + " " + "es correcto");}
+				else {System.out.println("El número" + " " + numA + " " + "es incorrecto");}}}
 				
