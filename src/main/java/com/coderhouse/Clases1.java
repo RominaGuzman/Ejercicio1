@@ -93,4 +93,6 @@ public class Clases1 {
 				int numA = 12;
 				if (numA >=1 && numA <=10) {System.out.println("El número" + " " + numA + " " + "es correcto");}
 				else {System.out.println("El número" + " " + numA + " " + "es incorrecto");}}}
+syso
+				
 				
